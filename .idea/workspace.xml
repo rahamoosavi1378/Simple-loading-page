@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1c66157-10a6-4420-9e09-6ddbc873da54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a1c66157-10a6-4420-9e09-6ddbc873da54" name="Default Changelist" comment="delete one line">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605938404821</updated>
       <workItem from="1605938405867" duration="5968000" />
-      <workItem from="1605948287843" duration="2349000" />
+      <workItem from="1605948287843" duration="2504000" />
     </task>
+    <task id="LOCAL-00001" summary="delete one line">
+      <created>1605950678481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605950678481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,18 +86,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete one line" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete one line" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="180" y="43" key="SettingsEditor" timestamp="1605948638573">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state x="180" y="43" key="SettingsEditor/0.30.1360.738@0.30.1360.738" timestamp="1605948638573" />
-    <state x="496" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605948575381">
+    <state x="496" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605950719430">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
-    <state x="496" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1360.738@0.30.1360.738" timestamp="1605948575381" />
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605948629866">
+    <state x="496" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1360.738@0.30.1360.738" timestamp="1605950719430" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605950775520">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1360.738@0.30.1360.738" timestamp="1605948629866" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1360.738@0.30.1360.738" timestamp="1605950775520" />
   </component>
 </project>
