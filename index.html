@@ -44,7 +44,7 @@
             right: auto;
             bottom: auto;
             animation-name: load;
-            animation-duration: 1s;
+            animation-duration: 2s;
             animation-iteration-count: infinite;
         }
 
@@ -57,10 +57,18 @@
                 width: 50px;
                 height: 50px;
             }
-            12.5% {
+            8% {
                 top: 0;
                 left: 0;
                 right: auto;
+                bottom: auto;
+                width: 100px;
+                height: 50px;
+            }
+            16% {
+                top: 0;
+                left: auto;
+                right: 0;
                 bottom: auto;
                 width: 100px;
                 height: 50px;
@@ -73,11 +81,19 @@
                 width: 50px;
                 height: 50px;
             }
-            37.5% {
+            33% {
                 top: 0;
                 left: auto;
                 right: 0;
                 bottom: auto;
+                width: 50px;
+                height: 100px;
+            }
+            41% {
+                top: auto;
+                left: auto;
+                right: 0;
+                bottom: 0;
                 width: 50px;
                 height: 100px;
             }
@@ -89,10 +105,18 @@
                 width: 50px;
                 height: 50px;
             }
-            62.5% {
+            58% {
                 top: auto;
                 left: auto;
                 right: 0;
+                bottom: 0;
+                width: 100px;
+                height: 50px;
+            }
+            66% {
+                top: auto;
+                left: 0;
+                right: auto;
                 bottom: 0;
                 width: 100px;
                 height: 50px;
@@ -105,11 +129,19 @@
                 width: 50px;
                 height: 50px;
             }
-            87.5% {
+            83% {
                 top: auto;
                 left: 0;
                 right: auto;
                 bottom: 0;
+                width: 50px;
+                height: 100px;
+            }
+            91% {
+                top: 0;
+                left: 0;
+                right: auto;
+                bottom: auto;
                 width: 50px;
                 height: 100px;
             }
@@ -121,6 +153,7 @@
                 width: 50px;
                 height: 50px;
             }
+
         }
 
     </style>
@@ -133,7 +166,7 @@
     </div>
 </div>
 <script>
-    window.onload = function (){
+    window.onload = function () {
         // document.getElementById('page_loading').style.display = 'none';
     }
 </script>
